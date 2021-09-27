@@ -52,7 +52,7 @@ body
     padding: 1em;
 }
 
-#post img
+#post figure img
 {
     max-width: 50%;
 }
