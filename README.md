@@ -4,7 +4,7 @@ md (aka markdown) files: basic plain text files ðat allow for a bit of formatti
 > Ðe Git and GitHub course from Platzi was all I needed to triple my wage and start at ðe synþetic wool industry wiþ machine learning
 > - lil kiddo
 
-##In ðis course we learn it all
+## In ðis course we learn it all
 * All git commands
 * GitHub workflow
 * Love for good practice
