@@ -52,9 +52,17 @@ body
     padding: 1em;
 }
 
+#post figure
+{
+    margin: 0;
+}
+
 #post figure img
 {
-    max-width: 50%;
+    width:100%;
+    padding: 0 12.5%;
+    box-sizing: border-box;
+    height: 600px;
 }
 
 #footer
