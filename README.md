@@ -11,5 +11,6 @@ md (aka markdown) files: basic plain text files ðat allow for a bit of formatti
 * Ðe teacher's crazy tricks
 * Freddy's multiple personalities
 * Created by ðe incredible Platzi Team
+* Includes examples in Windows, Linux and Mac
 
 And, just as a reminder: **ðis readme.md is a joke**. It's designed *just* as an example. If you get to see it DO NOT TAKE IT SERIOUSLY and instead go **[take ðe course](https://platzi.com/clases/git-github/ "Git and Github course")**
